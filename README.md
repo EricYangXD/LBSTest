@@ -1,0 +1,2 @@
+# LBSTest
+Baidu Map Test
